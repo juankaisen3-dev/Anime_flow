@@ -1,0 +1,23 @@
+api Anime_Flow 
+
+
+*## Endpoints*
+- `https://apikey-mirai-sama.vercel.app/api/search?query=naruto`
+
+- `https://apikey-mirai-sama.vercel.app/api/recent`
+
+- `https://apikey-mirai-sama.vercel.app/api/planning?day=today`
+
+- `https://apikey-mirai-sama.vercel.app/api/popular`
+
+- `https://apikey-mirai-sama.vercel.app/api/recommendations`
+
+- `https://apikey-mirai-sama.vercel.app/api/anime/[animeId]`
+
+- `https://apikey-mirai-sama.vercel.app/api/seasons/[animeId]`
+
+- `https://apikey-mirai-sama.vercel.app/api/episodes/[animeId]?season=1&language=VOSTFR`
+
+- `https://apikey-mirai-sama.vercel.app/api/episode-sources?url=[episodeUrl]`
+
+- `https://apikey-mirai-sama.vercel.app/api/embed?url=[animeUrl]`
